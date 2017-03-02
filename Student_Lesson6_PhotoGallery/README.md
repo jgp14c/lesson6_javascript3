@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This assignmetn was about creating an application using javascript that would allow us to view and display a series of images on a webpage. It also allowed the user to navigate through those pictures by using the scroll bar.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jgp14c.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (The document.addEventListener() method attaches an event handler to the document.)
